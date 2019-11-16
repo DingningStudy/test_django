@@ -1,5 +1,5 @@
 """
-Definition of views.123
+Definition of views.
 """
 
 from datetime import datetime
